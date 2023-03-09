@@ -2,7 +2,7 @@
 
 This is a tiny text adventure game that can be played in the developer console of a web browser.
 
-To build this project, run npm i in the terminal
+To build this project, run "npm i" in the terminal
 
 ## Code
 
